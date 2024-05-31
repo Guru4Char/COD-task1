@@ -4,7 +4,7 @@ Domain : Python
 Duration : 25th May 2024 to 25th June 2024
 Mentor : Sravani Gouni
 
-Description : Sure! Here's a description:
+Description :
 
 "Create a simple calculator program in Python that can perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The program should prompt the user to enter two numbers and then ask for the desired operation. Once the user selects the operation, the program should perform the calculation and display the result. 
 
